@@ -2,15 +2,15 @@
 
 #### Assessment 1		
 > **Completed**: Technical and functional requirements as specified.
-* DONE: A user must be able to create a task.
-	* DONE: A user must not be able to create a task with no title.
-* DONE: A user must be able to delete a task.
-* DONE: A user must be able to complete a task.
-	* DONE: A user must be able to see a visual representation of a completed task.
-	* DONE: The complete button should be disabled if the task is completed.
-* DONE: A user must be able to see a list of all their tasks.
-* DONE: The add-task input field must clear after adding a task.
-* DONE: After adding a new task, the task must be added to the list of visible tasks.
+* Done: A user must be able to create a task.
+	* Done: A user must not be able to create a task with no title.
+* Done: A user must be able to delete a task.
+* Done: A user must be able to complete a task.
+	* Done: A user must be able to see a visual representation of a completed task.
+	* Done: The complete button should be disabled if the task is completed.
+* Done: A user must be able to see a list of all their tasks.
+* Done: The add-task input field must clear after adding a task.
+* Done: After adding a new task, the task must be added to the list of visible tasks.
 
 
 #### Assessment 2		
