@@ -5,10 +5,8 @@
 
 #### Assessment 2		
 > **Completed**: Technical and functional requirements as specified using redux.
-
-    Keep track of tasks using redux.
-    Create, Complete, and Delete tasks using action creators with redux.
-
+* Keep track of tasks using redux.
+* Create, Complete, and Delete tasks using action creators with redux.
 
 #### Assessment 3		
 > **Completed**:
