@@ -8,9 +8,9 @@
 
 #### Assessment 3		
 > **Completed**:
-* Use Material UI
-* Use redux
-* Implement API<br>Note : API code written in `/src/actions/index.js` and unit tested. Used `superagent` instead of `isomorphic-fetch`
+* Use Material-UI (current version) for user interface components.
+* Use API to manage tasks. <br>Note : API code written in `/src/actions/index.js` and unit tested. 
+* Use `redux`. <br> Used `superagent` instead of `isomorphic-fetch`.
 
 		
 		Pending/To-do:
