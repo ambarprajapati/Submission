@@ -2,6 +2,9 @@
 
 #### Assessment 1		
 > **Completed**: Technical and functional requirements as specified.
+* DONE: A user must be able to create a task.
+	* * DONE: A user must not be able to create a task with no title.
+
 	* DONE: A user must be able to create a task.
         	* DONE: A user must not be able to create a task with no title.
     A user must be able to delete a task.
