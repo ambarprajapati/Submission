@@ -12,8 +12,7 @@
 * Use API to manage tasks. <br>Note : API code written in `/src/actions/index.js` and unit tested. 
 * Use `redux`. <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
-		
-		Pending/To-do:
+> **Pending/To-do**:		
 		Integration of API functionality with Redux
 		Use of redux-saga, react-router-dom
 		Show detailed view of the Task and go back to main task list
