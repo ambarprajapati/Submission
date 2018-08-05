@@ -3,6 +3,17 @@
 #### Assessment 1		
 > **Completed**: Technical and functional requirements as specified.
 
+    A user must be able to create a task.
+        A user must not be able to create a task with no title.
+    A user must be able to delete a task.
+    A user must be able to complete a task.
+        A user must be able to see a visual representation of a completed task.
+        The complete button should be disabled if the task is completed.
+    A user must be able to see a list of all their tasks.
+    The add-task input field must clear after adding a task.
+    After adding a new task, the task must be added to the list of visible tasks.
+
+
 #### Assessment 2		
 > **Completed**: Technical and functional requirements as specified using redux.
 * Keep track of tasks using redux.
