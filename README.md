@@ -30,12 +30,12 @@
 * **Done**: Keep track of tasks using redux.
 * **Done**: Create, Complete, and Delete tasks using action creators with redux.
 
-#### Assessment 3		
+### Assessment 3		
 > **Completed**:
 * **Done**: Use Material-UI (current version) for user interface components.
 * **Done**: Use API to manage tasks. <br>Note : API code to create, fetch, update, complete, and delete tasks written in `/src/actions/index.js` and unit tested. 
 * **Done**: Use `redux`. <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
-> **Pending / To-do**:		
+> **To-do/Work-In-Progress**:		
 		<br>Use of `redux-saga`: Integration of API functionality with Redux
 		<br>Use of `react-router-dom`: Show detailed view of a task and go back to main task list
