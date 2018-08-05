@@ -1,7 +1,7 @@
 ## Submission Details
 #### by Ambar Prajapati
 
-#### Assessment 1		
+### Assessment 1		
 > **Completed**: Technical and functional requirements as specified.
 ##### Functional Requirements:
 * **Done**: A user must be able to create a task.
@@ -16,16 +16,16 @@
 
 ##### Technical Requirements :
 * **Done**: Create a react app from scratch using create-react-app.
-* **Done**: Components.
-* **Done**: State.
-* **Done**: Props.
-* **Done**: Map.
-* **Done**: Classes
-* **Done**: In-line styles ( at least 1 )
-* **Done**: Conditional Classes
+* **Done**: Use Components.
+* **Done**: Use State.
+* **Done**: Use Props.
+* **Done**: Use Map.
+* **Done**: Use Classes
+* **Done**: Use In-line styles
+* **Done**: Use Conditional Classes (css)
 
 
-#### Assessment 2		
+### Assessment 2		
 > **Completed**: Technical and functional requirements as specified using redux.
 * **Done**: Keep track of tasks using redux.
 * **Done**: Create, Complete, and Delete tasks using action creators with redux.
