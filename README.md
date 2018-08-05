@@ -14,4 +14,4 @@
 
 > **Pending / To-do**:		
 		<br>Use of `redux-saga`: Integration of API functionality with Redux
-		<br>Use of `react-router-dom`: Show detailed view of the Task and go back to main task list
+		<br>Use of `react-router-dom`: Show detailed view of a task and go back to main task list
