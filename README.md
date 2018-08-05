@@ -15,15 +15,14 @@
 * **Done**: After adding a new task, the task must be added to the list of visible tasks.
 
 ##### Technical Requirements :
-
-    Create a react app from scratch using create-react-app.
-    Components.
-    State.
-    Props.
-    Map.
-    Classes ( at least 1 )
-    In-line styles ( at least 1 )
-    Conditional Classes
+* **Done**: Create a react app from scratch using create-react-app.
+* **Done**: Components.
+* **Done**: State.
+* **Done**: Props.
+* **Done**: Map.
+* **Done**: Classes
+* **Done**: In-line styles ( at least 1 )
+* **Done**: Conditional Classes
 
 
 #### Assessment 2		
