@@ -1,4 +1,4 @@
-# submission
+# Submission
 
 #### Assessment 1		
 > **Completed**: Technical and functional requirements as specified
