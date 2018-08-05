@@ -9,7 +9,7 @@
 #### Assessment 3		
 > **Completed**:
 * Use Material-UI (current version) for user interface components.
-* Use API to manage tasks. <br>Note : API code written in `/src/actions/index.js` and unit tested. 
+* Use API to manage tasks: To create, fetch, update, complete, and delete tasks. <br>Note : API code written in `/src/actions/index.js` and unit tested. 
 * Use `redux`. <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
 > **Pending / To-do**:		
