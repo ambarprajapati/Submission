@@ -1,13 +1,13 @@
 # submission
 
 #### Assessment 1		
-> Completed: Technical and functional requirements as specified
+> **Completed**: Technical and functional requirements as specified
 
 #### Assessment 2		
-> Completed: Technical and functional requirements as required using redux
+> **Completed**: Technical and functional requirements as required using redux
 
 #### Assessment 3		
-> Completed:
+> **Completed**:
 - [x] Use Material UI
 - [x] Use redux
 - [x] Implement API (code written and unit tested)
