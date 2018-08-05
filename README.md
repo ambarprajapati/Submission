@@ -10,7 +10,8 @@
 > **Completed**:
 * Use Material UI
 * Use redux
-* Implement API *(Note : code written in `/src/actions/index.js` and unit tested. Used `superagent` instead of `isomorphic-fetch`)*
+* Implement API 
+	(Note : API code written in `/src/actions/index.js` and unit tested. Used `superagent` instead of `isomorphic-fetch`)*
 
 		
 		Pending:
