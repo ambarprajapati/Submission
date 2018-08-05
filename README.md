@@ -37,6 +37,5 @@
 * **Done**: Use `redux`, `isomorphic-fetch` <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
 > **To-do**:		
-<br>1. Use of `redux-saga`: Integration of API functionality with Redux
-<br>2. Use of `react-router-dom`: Implement detailed view of a task as per specified functionality.
-<br>3. Replace `isomorphic-fetch` with  `superagent`.
+<br>1. Integrate API with Redux. Use `redux-saga`, `isomorphic-fetch` 
+<br>2. Implement detailed view of a task as per specified functionality. Use `react-router-dom`: 
