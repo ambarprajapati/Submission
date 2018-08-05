@@ -16,3 +16,4 @@
 		Pending:
 		Integration of API functionality with Redux
 		Use of redux-saga, react-router-dom
+		Show detailed view of the Task and go back to main task list
