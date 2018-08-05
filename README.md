@@ -10,7 +10,7 @@
 > **Completed**:
 * Use Material-UI (current version) for user interface components.
 * Use API to manage tasks. <br>Note : API code written in `/src/actions/index.js` and unit tested. 
-* Use `redux`. <br> Used `superagent` instead of `isomorphic-fetch`.
+* Use `redux`. Used and tested: `superagent` instead of `isomorphic-fetch`.
 
 		
 		Pending/To-do:
