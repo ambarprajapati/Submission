@@ -1,5 +1,5 @@
 ## Submission Details
-####[by Ambar Prajapati]
+#### by Ambar Prajapati
 
 #### Assessment 1		
 > **Completed**: Technical and functional requirements as specified.
