@@ -37,7 +37,7 @@
 ### Assessment 3:		
 > **Completed**:
 * **Done**: Use Material-UI (current version) for user interface components.
-* **Done**: Use API to manage tasks. Implemented API exactly as per the documentation. <br>Note : API code to create, fetch, update, complete, and delete tasks using `superagent` in `/src/actions/index.js` works well and is unit tested. 
+* **Done**: Use API to manage tasks. Implemented API exactly as per the documentation. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `superagent` in `/src/actions/index.js`. It works well and is unit tested. 
 * **Done**: Use `redux`, `isomorphic-fetch` <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
 > **To-do**:		
