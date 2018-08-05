@@ -11,6 +11,7 @@
 * Use Material UI
 * Use redux
 * Implement API (code written and unit tested)
+
   *Note: Used superagent instead of isomorphic-fetch*
 		
 		Pending:
