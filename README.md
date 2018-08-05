@@ -11,7 +11,8 @@
 * Use Material UI
 * Use redux
 * Implement API (code written and unit tested)
+	*Note: Used superagent instead of isomorphic-fetch
 		
 		Pending:
 		Integration of API functionality with Redux
-		Use of redux-saga,  isomorphic-fetch, react-router-dom
+		Use of redux-saga, react-router-dom
