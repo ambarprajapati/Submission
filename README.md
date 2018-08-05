@@ -36,7 +36,7 @@
 * **Done**: Use API to manage tasks. Implemented API exactly as per the documentation. <br>Note : API code to create, fetch, update, complete, and delete tasks works well. Its written using `superagent` in `/src/actions/index.js` and is unit tested. 
 * **Done**: Use `redux`, `isomorphic-fetch` <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
-> **Work-In-Progress/To-do**:		
-<br>Use of `redux-saga`: Integration of API functionality with Redux
-<br>Use of `react-router-dom`: Show detailed view of a task and go back to main task list as per specified functionality.
-<br>Replace `isomorphic-fetch` with  `superagent`.
+> **To-do**:		
+<br>1. Use of `redux-saga`: Integration of API functionality with Redux
+<br>2. Use of `react-router-dom`: Implement detailed view of a task as per specified functionality.
+<br>3. Replace `isomorphic-fetch` with  `superagent`.
