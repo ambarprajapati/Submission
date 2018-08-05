@@ -8,9 +8,9 @@
 
 #### Assessment 3		
 > **Completed**:
-- [x] Use Material UI
-- [x] Use redux
-- [x] Implement API (code written and unit tested)
+* Use Material UI
+* Use redux
+* Implement API (code written and unit tested)
 		
 		Pending:
 		Integration of API functionality with Redux
