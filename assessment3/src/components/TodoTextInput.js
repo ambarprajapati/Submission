@@ -54,7 +54,7 @@ export default class TodoTextInput extends Component {
                 onChange={this.handleChange}
                 onKeyDown={this.handleSubmit}/>
                 <p/>
-
+//To-Do: Bind button click with Input Key Down.
             <Button variant="contained" color="primary"
             className="buttonCSS">Add new To-do</Button> 
             <p/>
