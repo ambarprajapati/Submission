@@ -1,4 +1,5 @@
 ## Submission Details
+####[by Ambar Prajapati]
 
 #### Assessment 1		
 > **Completed**: Technical and functional requirements as specified.
@@ -12,6 +13,17 @@
 * **Done**: A user must be able to see a list of all their tasks.
 * **Done**: The add-task input field must clear after adding a task.
 * **Done**: After adding a new task, the task must be added to the list of visible tasks.
+
+##### Technical Requirements :
+
+    Create a react app from scratch using create-react-app.
+    Components.
+    State.
+    Props.
+    Map.
+    Classes ( at least 1 )
+    In-line styles ( at least 1 )
+    Conditional Classes
 
 
 #### Assessment 2		
