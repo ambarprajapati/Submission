@@ -13,6 +13,6 @@
 * Use `redux`. <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
 
 > **Pending/To-do**:		
-		Integration of API functionality with Redux
-		Use of redux-saga, react-router-dom
-		Show detailed view of the Task and go back to main task list
+		<br>Integration of API functionality with Redux
+		<br>Use of redux-saga, react-router-dom
+		<br>Show detailed view of the Task and go back to main task list
