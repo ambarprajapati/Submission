@@ -38,7 +38,7 @@
 > **Completed**:
 * **Done**: Use Material-UI (current version) for user interface components.
 * **Done**: Use API to manage tasks. Implemented API as per the documentation. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `superagent` in `/src/actions/index.js`. The API unit code functionality is tested seperately. 
-* **Done**: Use `redux`, `isomorphic-fetch` <br>Note : implemented `superagent` instead of `isomorphic-fetch`.
+* **Done**: Use `redux` <br>Note : Used `superagent` instead of `isomorphic-fetch`.
 
 > **To-do/Pending**:		
 <br>1. Integrate API with Redux. Use `redux-saga`, `isomorphic-fetch` 
