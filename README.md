@@ -37,11 +37,9 @@
 ### Assessment 3:		
 > **Completed**:
 * **Done**: Use Material-UI (current version) for user interface components.
-* **Done**: Use API to manage tasks. Implemented API as per the documentation. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `superagent` in `/src/actions/index.js`. The API unit code functionality is tested seperately. 
-* **Done**: Use `redux` <br>Note : Used `superagent` instead of `isomorphic-fetch`.
-
+* **Done**: Use API to manage tasks. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `redux`,  `superagent` and `thunk`. 
 > **To-do/Pending**:		
-<br>1. Integrate API with Redux. Use `redux-saga`, `isomorphic-fetch` 
-<br>2. Implement detailed view of a task as per specified functionality. Use `react-router-dom`: 
+<br>1. Implement detailed view of a task as per specified functionality. Use `react-router-dom`:
+<br>2. Replace  `thunk` and `superagent` with `redux-saga`, `isomorphic-fetch` 
 
 <img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
