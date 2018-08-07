@@ -40,6 +40,6 @@
 * **Done**: Use API to manage tasks. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `redux`,  `superagent` and `thunk`. 
 > **To-do/Pending**:		
 <br>1. Implement detailed view of a task as per specified functionality. Use `react-router-dom`:
-<br>2. Replace  `thunk` and `superagent` with `redux-saga`, `isomorphic-fetch` 
+<br>2. Replace  `thunk`, `superagent` with `redux-saga`, `isomorphic-fetch` 
 
 <img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
