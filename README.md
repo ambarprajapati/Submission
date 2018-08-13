@@ -35,11 +35,20 @@
 
 
 ### Assessment 3:
-### Functionality
 
 > **Completed**:
+### Technical Requirements
+
 * **Done**: Use Material-UI (current version) for user interface components.
-* **Done**: Use API to manage tasks. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `redux`,  `superagent` and `thunk`. 
+* **Done**: Use API to manage tasks.
+* **Done**: Use `redux-saga` (used `thunk`), `Redux`, and `isomorphic-fetch` (used `superagent`) to create, fetch, update, complete, and delete tasks.
+* **Done**: Use `react-router-dom` to create a new route to a detailed view of a task:
+  **Done**: * This route should use route parameters to know which task it is working with.
+  **Done**: * This route should be able to handle refreshing ( data should not be lost on refresh ).
+
+> **Completed**:
+### Functionality
+
 * **Done**: A user should be able to click on a task to be taken to a detailed view of that task:
 <br>Note: Clicking a row in main task-list opens up details for a task in `Task-Detail-View`.
 * **Done**: A user should be able to modify the title of a task.
