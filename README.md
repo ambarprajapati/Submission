@@ -47,6 +47,7 @@
     <br>Note: Double-clicking a task makes it editable in `Task-Detail-View`. On hitting the enter-key, edits are saved and user navigates to main task-list.
   * **Done**: A user should be able to delete a task:
     * **Done**: This should navigate the user back to the main list of tasks after deleting a task.
+      <br>Note: Hitting `Delete` button on `Task-Detail-View` deletes a task and user navigates to main task-list.
   * **Done**: A user should be able to complete a task:
     * **Done**: This should navigate a user back to the main list of tasks after completeing a task.
     	<br>Note: If a task is previously complete, it is marked incomplete and vice-versa using `Toggle Complete` button
