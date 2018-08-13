@@ -44,6 +44,7 @@
 * **Done**: A user should be able to modify the title of a task.
   * **Done**: A user should be able to save changes to a title
     * **Done**: This should navigate the user to the main list of tasks after saving changes.
+    <br>Double-clicking a task makes it editable in `Task-Detail-View`. Edits are saved and user navigates to main task-list.
   * **Done**: A user should be able to delete a task:
     * **Done**: This should navigate the user back to the main list of tasks after deleting a task.
   * **Done**: A user should be able to complete a task:
