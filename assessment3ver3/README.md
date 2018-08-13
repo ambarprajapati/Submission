@@ -1,7 +1,7 @@
 # mytodorapi assessment 3
-#mytodorapi
+# mytodorapi
 
-###This assignment
+### This assignment
 
 * integrates with given api and works to create, fetch, update, complete, and delete tasks from server instantly.
 * uses current Material UI.
@@ -12,4 +12,4 @@
 * User can use `Toggle Complete` button on the main task list and Task-Detail view to mark a Task complete and incomplete
 * `Cancel` and `Back to Tasks` button navigates user back to main-task-list.
 
-####Ambar Prajapati
+#### Ambar Prajapati
