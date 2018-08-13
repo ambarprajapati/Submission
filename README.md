@@ -37,7 +37,7 @@
 ### Assessment 3:
 
 > **Completed**:
-## Technical Requirements
+#### Technical Requirements
 
 * **Done**: Use Material-UI (current version) for user interface components.
 * **Done**: Use API to manage tasks.
@@ -47,7 +47,7 @@
   * **Done**:  This route should be able to handle refreshing ( data should not be lost on refresh ).
 
 > **Completed**:
-## Functionality
+#### Functionality
 
 * **Done**: A user should be able to click on a task to be taken to a detailed view of that task:
 <br>Note: Clicking a row in main task-list opens up details for a task in `Task-Detail-View`.
