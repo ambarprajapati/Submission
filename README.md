@@ -50,9 +50,10 @@
     * **Done**: This should navigate a user back to the main list of tasks after completeing a task.
     	<br>Note: If a task is previously complete, it is marked incomplete and vice-versa using `Toggle Complete` button
 * **Done**: A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
-<br>Note: `description` field related changes pending
+
+<img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
+
+> **To-do**:
 * A user should be able to add/modify the description of a task.
   * A user should be able to cancel text changes:
     * This should set the input fields' values back to their original value.
-
-<img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
