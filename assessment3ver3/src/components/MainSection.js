@@ -53,8 +53,8 @@ export default class MainSection extends Component {
 	<Router>
         <div style={{ display: "flex", width: "850px" }}>
             <div  style={{
-                padding: "5px",
-                width: "65%",
+                padding: "2px",
+                width: "70%",
                 background: "#f0f0f0"
               }}>	
 				  <section className="main">
