@@ -54,7 +54,7 @@
     	<br>Note: If a task is incomplete, it is marked complete and vice-versa using `Toggle Complete` button. And this navigates the user back to main task-list.
 * **Done**: A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
     <br>Note: Hitting `Back to Tasks` button navigates the user back to main task-list.
-<img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
+<img src="https://github.com/ambarprajapati/submission/blob/master/image3v3.jpg" />
 
 > **To-do**:
 * A user should be able to add/modify the description of a task.
