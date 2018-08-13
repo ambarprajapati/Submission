@@ -42,17 +42,17 @@
 * **Done**: Use API to manage tasks. <br>Note : The API code to create, fetch, update, complete, and delete tasks uses `redux`,  `superagent` and `thunk`. 
 * **Done**: A user should be able to click on a task to be taken to a detailed view of that task:
 * **Done**: A user should be able to modify the title of a task.
-  * A user should be able to add/modify the description of a task.
   * **Done**: A user should be able to save changes to a title
-  	<br>Note: `description` field related changes pending
-    * **Done**: * This should navigate the user to the main list of tasks after saving changes.
-  * A user should be able to cancel text changes:
-    * This should set the input fields' values back to their original value.
+    * **Done**: This should navigate the user to the main list of tasks after saving changes.
   * **Done**: A user should be able to delete a task:
     * **Done**: This should navigate the user back to the main list of tasks after deleting a task.
   * **Done**: A user should be able to complete a task:
-    	<br>Note: If a task is previously complete, it is marked incomplete and vice-versa using `Toggle Complete` button
     * **Done**: This should navigate a user back to the main list of tasks after completeing a task.
-* **Done**: * A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
+    	<br>Note: If a task is previously complete, it is marked incomplete and vice-versa using `Toggle Complete` button
+* **Done**: A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
+<br>Note: `description` field related changes pending
+* A user should be able to add/modify the description of a task.
+  * A user should be able to cancel text changes:
+    * This should set the input fields' values back to their original value.
 
 <img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
