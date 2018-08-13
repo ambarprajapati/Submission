@@ -50,9 +50,9 @@
       <br>Note: Hitting `Delete` button on `Task-Detail-View` deletes a task and user navigates to main task-list.
   * **Done**: A user should be able to complete a task:
     * **Done**: This should navigate a user back to the main list of tasks after completeing a task.
-    	<br>Note: If a task is previously complete, it is marked incomplete and vice-versa using `Toggle Complete` button
+    	<br>Note: If a task is incomplete, it is marked complete and vice-versa using `Toggle Complete` button. And this navigates the user back to main task-list.
 * **Done**: A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
-
+    <br>Note: Hitting 'Back to Tasks` button navigates the user back to main task-list.
 <img src="https://github.com/ambarprajapati/submission/blob/master/image3.jpg" />
 
 > **To-do**:
